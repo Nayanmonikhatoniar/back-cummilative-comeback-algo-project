@@ -3,6 +3,6 @@
 ## used tools: qiskit, machine learning concepts; r lang ,python; for documentation:- latex and implementation locally in bash.
 - model 1
 - <p align="center">
-  <img src="assets/Screenshot45.png" width="800"/>
+  <img src="assests/resilience_curve.png" width="800"/>
 </p>
 
