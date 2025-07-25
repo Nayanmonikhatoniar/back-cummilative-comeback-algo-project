@@ -1,4 +1,8 @@
 #  project tittle :- quantum computing ;ml based predictive comeback algorithm that can be integrated in day to day
 
 ## used tools: qiskit, machine learning concepts; r lang ,python; for documentation:- latex and implementation locally in bash.
+- model 1
+- <p align="center">
+  <img src="assets/Screenshot45.png" width="800"/>
+</p>
 
